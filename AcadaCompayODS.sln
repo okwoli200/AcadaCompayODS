@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "AcadaCompayODS", "AcadaCompayODS\AcadaCompayODS.dtproj", "{C9B03172-A105-4C2B-83BB-2AE09CB57247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B03172-A105-4C2B-83BB-2AE09CB57247}.Azure|Default.ActiveCfg = Azure
+		{C9B03172-A105-4C2B-83BB-2AE09CB57247}.Azure|Default.Build.0 = Azure
+		{C9B03172-A105-4C2B-83BB-2AE09CB57247}.Development|Default.ActiveCfg = Development
+		{C9B03172-A105-4C2B-83BB-2AE09CB57247}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963546F5-7B3E-4EF9-BDE0-287AC3D97445}
+	EndGlobalSection
+EndGlobal
