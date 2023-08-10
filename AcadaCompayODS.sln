@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "AcadaCompayODS", "AcadaCompayODS\AcadaCompayODS.dtproj", "{C9B03172-A105-4C2B-83BB-2AE09CB57247}"
 EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "AcadaCompanyStaging", "AcadaCompanyStaging\AcadaCompanyStaging.dtproj", "{4518457D-CC43-4AB1-8197-CA5DCF41A7C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Azure|Default = Azure|Default
@@ -15,6 +17,10 @@ Global
 		{C9B03172-A105-4C2B-83BB-2AE09CB57247}.Azure|Default.Build.0 = Azure
 		{C9B03172-A105-4C2B-83BB-2AE09CB57247}.Development|Default.ActiveCfg = Development
 		{C9B03172-A105-4C2B-83BB-2AE09CB57247}.Development|Default.Build.0 = Development
+		{4518457D-CC43-4AB1-8197-CA5DCF41A7C8}.Azure|Default.ActiveCfg = Azure
+		{4518457D-CC43-4AB1-8197-CA5DCF41A7C8}.Azure|Default.Build.0 = Azure
+		{4518457D-CC43-4AB1-8197-CA5DCF41A7C8}.Development|Default.ActiveCfg = Development
+		{4518457D-CC43-4AB1-8197-CA5DCF41A7C8}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
